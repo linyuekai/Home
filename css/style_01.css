@@ -1,0 +1,5 @@
+/****CSS RESET*****/
+body,div,p,span,table,dt,dl,dd,td,th,tr,ol,ul,img,li,em,i,strong,pre,area,input,h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
+.clearfix:after{content:".";display:block;clear:both;height:0; visibility:hidden;}
+.clearfix{*zoom:1;}
+/***头部**/
